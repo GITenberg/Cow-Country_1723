@@ -1,5 +1,8 @@
 _repo: Cow-Country_1723
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bower, B. M.
@@ -18,6 +21,8 @@ description: 'Title; Contents; Chapter One: An Ambitious Man-Child was Buddy; Ch
   the Wily; Chapter Twelve: Sport o'' Kings; Chapter Thirteen: The Sinks; Chapter
   Fourteen: Even Mushrooms Help; Chapter Fifteen: Why Bud Missed a Dance; Chapter
   Sixteen: While the Going''s Good'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1723#Cow-Country
 gutenberg_bookshelf: Western
 gutenberg_issued: '1999-04-01'
 gutenberg_type: Text
